@@ -1,3 +1,5 @@
+https://github.com/jhu-ep-coursera/fullstack-course2-module1-fancy_cars
+
 #Executed commands
 `
 rails new fancy_cars 
